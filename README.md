@@ -1,2 +1,2 @@
 # projetomeuyoutube
-Este é um projeto feito por mim com base em uma vídeo aula do YouTube, onde eu procurava a aprender um pouco sobre HTML  e CSS. A inspiração era fazer seu próprio YouTube conforme o conhecimento básico de HMTL e CSS aprendido durante a aula e aplicá-lo conforme o gosto pessoal de cada um.
+Este é um projeto feito por mim com base em uma vídeo aula do YouTube, onde eu procurava a aprender um pouco sobre HTML  e CSS. A inspiração era fazer seu próprio YouTube conforme o conhecimento básico de HMTL e CSS aprendido durante a aula e aplicá-lo conforme o gosto pessoal. Ainda falta alguns detalhes e as interações com o JavaScript que dão a dinâmica necessária para agradar o consumidor de uma das redes sociais mais usadas no mundo inteiro.
